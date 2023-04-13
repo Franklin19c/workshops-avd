@@ -138,7 +138,7 @@ management api http-commands
 
 ```eos
 !
-username arista privilege 15 role network-admin secret sha512 $6$rni8EQfzPYbWyZhA$0KGfjazJLatpV3kQic3wU45I3HT.KjvIwAdT/RCsdGoKAIZ3KQe1JPNT02iketlyaCGf0Ue8C3PhnCsQcq0gp0
+username arista privilege 15 role network-admin secret sha512 $6$gnpxur3GLxMDKMWc$CKnJ06CFZlD1n2jNCHzrQbF3iQh60Rl54o2PDyhREpZ52DyhfDKa1JtiGka7JcP4HxlEb31mGCZQxjtBOQH8C.
 ```
 
 ## AAA Authorization
